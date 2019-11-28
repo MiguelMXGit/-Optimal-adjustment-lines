@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\xXLIVIDXx\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "-ExecutionPolicy",
+        "Bypass"
+    ],
+    "git.ignoreLimitWarning": true
+}

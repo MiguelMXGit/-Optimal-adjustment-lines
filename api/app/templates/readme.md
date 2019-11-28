@@ -1,0 +1,1 @@
+Carpeta Templates: Contiene las vistas hechas en HTML
